@@ -150,3 +150,11 @@
   "messageHash": "96:0:HIDOING?",
   "status": "Pending"
 }
+{
+  "messageID": "2988918120",
+  "messageNumber": 0,
+  "recipientCell": "+27769856209",
+  "messageContent": "hey bbe deno",
+  "messageHash": "29:0:HEYDENO",
+  "status": "Pending"
+}
