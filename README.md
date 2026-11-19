@@ -1,6 +1,6 @@
 # PROG5121 POE Part 3 - QuickChat Application
 
-**Student Name:** Denau Hermanus
+**Student Name:** Denau Hermanus  
 **Student ID:** ST10497747  
 **Module:** PROG5121 (Programming 1A)
 
@@ -13,5 +13,5 @@ This repository contains Part 3 of the QuickChat Messaging Application built in 
 * Cell phone number and message length validation (`Message.java`).
 * Automatic Message Hash creation (`Message.java`).
 * Message storage in JSON format (`messages.json`).
-* Stored Messages sub-menu options (a–g) for array searching, filtering, and reporting.
-* Full JUnit 5 unit testing (`LoginTest.java` and `MessageTest.java`).
+* Stored Messages sub-menu options (a–g) for array searching, filtering, and reporting[cite: 13].
+* Full JUnit 5 unit testing (`LoginTest.java` and `MessageTest.java`)[cite: 13].
